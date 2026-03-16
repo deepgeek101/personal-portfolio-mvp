@@ -173,7 +173,7 @@ const Contact = () => {
                     Location
                   </h4>
                   <p className="text-gray-600 dark:text-gray-400">
-                    Bhubaneswar-751024, Odisha, India
+                    Kathmandu, Nepal
                   </p>
                 </div>
               </div>
