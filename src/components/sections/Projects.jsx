@@ -1,4 +1,4 @@
-import domeHouseImg from "../../assets/earthbag-domehouse.jpg";
+
 const Projects = () => {
   const projects = [
     {
@@ -6,7 +6,7 @@ const Projects = () => {
       title: "Earthbag Domehouse Workshop",
       description:
         "An eco-friendly shelter built using earthbag architecture and local resources. Involved 3 weeks of intensive teamwork, sustainable resource planning, and alternative building methods.",
-      image: domeHouseImg,
+      image: "/api/placeholder/400/300",
       technologies: [
         "Volunteering",
         "Sustainable Building",

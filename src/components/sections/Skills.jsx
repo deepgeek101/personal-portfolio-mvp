@@ -1,11 +1,10 @@
-import PowerBISVG from "../../assets/power-bi-2021.svg";
+
 
 const Skills = () => {
   const skills = [
     { name: "Python", icon: "devicon-python-plain colored" },
     { name: "Pandas", icon: "devicon-pandas-plain colored" },
     { name: "NumPy", icon: "devicon-numpy-plain" },
-    { name: "Power BI", icon: PowerBISVG, isSVG: true },
     { name: "SQL (MySQL)", icon: "devicon-mysql-plain colored" },
     { name: "C++", icon: "devicon-cplusplus-plain colored" },
     { name: "C", icon: "devicon-c-plain colored" },
