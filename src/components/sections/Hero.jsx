@@ -3,7 +3,7 @@ import profilePic from "../../assets/pic-one.png";
 
 const Hero = () => {
   const [typedText, setTypedText] = useState("");
-  const fullText = "Data Enthusiast";
+  const fullText = "Architectural Designer | Sketching Ideas into Reality";
   const [index, setIndex] = useState(0);
 
   useEffect(() => {
@@ -34,7 +34,7 @@ const Hero = () => {
           <h1 className="text-4xl md:text-6xl font-bold mb-4 text-gray-900 dark:text-white animate-fade-in">
             Hi, I'm{" "}
             <span className="text-blue-600 dark:text-blue-400">
-              Deep Chaulagain
+              Puspa Karki
             </span>
           </h1>
           <h2 className="text-2xl md:text-3xl mb-6 text-gray-700 dark:text-gray-300">
@@ -42,9 +42,11 @@ const Hero = () => {
             <span className="animate-pulse">|</span>
           </h2>
           <p className="text-lg mb-8 text-gray-600 dark:text-gray-400 max-w-lg">
-            I build data-driven solutions that are efficient, scalable, and
-            insightful. My passion lies in transforming raw information into
-            actionable intelligence that drives better decisions.
+            I turn blank pages into living spaces - sketching bold ideas, layering
+            textures, and breathing life into every line. My passion lies in merging
+            artistic intuition with architectural form, translating raw imagination
+            into built experiences that feel as alive as the canvases that inspire them,
+            and shaping environments that tell a story worth inhabiting.
           </p>
           <div className="flex flex-wrap gap-4 justify-center md:justify-start">
             <button
