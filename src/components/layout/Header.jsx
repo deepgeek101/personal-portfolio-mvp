@@ -26,7 +26,7 @@ const Header = ({ darkMode, toggleDarkMode }) => {
           {/* Logo */}
           <div className="text-xl font-bold text-gray-900 dark:text-white">
             <span className="text-blue-600 dark:text-blue-400">
-              Deep Chaulagain
+              Puspa Karki
             </span>
           </div>
 
