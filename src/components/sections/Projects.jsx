@@ -1,4 +1,3 @@
-
 const Projects = () => {
   const projects = [
     {
